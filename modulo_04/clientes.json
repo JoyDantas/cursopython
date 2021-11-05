@@ -1,0 +1,20 @@
+{
+    "1": {
+        "nome": "Joys Dantas",
+        "idade": 26,
+        "altura": 1.6,
+        "peso": 52.5
+    },
+    "2": {
+        "nome": "Paulo Henrique",
+        "idade": 60,
+        "altura": 1.8,
+        "peso": 82.5
+    },
+    "3": {
+        "nome": "Camila Prado",
+        "idade": 36,
+        "altura": 1.5,
+        "peso": 62.5
+    }
+}
